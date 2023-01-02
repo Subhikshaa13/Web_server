@@ -2,7 +2,8 @@
 
 # AIM:
 
-Name: Subhikshaa M; Ref./Reg. No.: 22001030
+Name: Subhikshaa M\
+Ref./Reg. No.: 22001030
 
 # DESIGN STEPS:
 
