@@ -57,6 +57,7 @@ httpd=HTTPServer(server_address,HelloHandler)
 httpd.serve_forever()
 ```
 # OUTPUT:
+![output.img](output_img.png)
 
 # RESULT:
 
